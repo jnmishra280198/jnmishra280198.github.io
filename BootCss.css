@@ -1,0 +1,27 @@
+html
+{
+	position: relative;
+	min-height: 100%;
+}
+body{
+	margin-bottom: 90px;
+}
+
+
+.container
+{
+	width:auto;
+	padding:25px;
+}
+.margin-top-5
+{
+  margin-top:5%;	
+}
+.bottom-top-5
+{
+	bottom-top:5%;
+}
+.first-alphabet-large::first-letter
+{
+	font-size: 3rem;
+}
